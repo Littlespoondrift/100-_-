@@ -1,0 +1,20 @@
+# Qwen模型
+Qwen2-VL-2B/
+
+# YOLO权重
+*.pt
+
+# Transformers模型
+*.bin
+*.safetensors
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# 上传结果
+static/upload/
+static/result/
